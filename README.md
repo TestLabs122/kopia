@@ -1,5 +1,5 @@
 Kopia
-=====
+====
 
 ![Kopia](icons/kopia.svg)
 [![Build Status](https://github.com/kopia/kopia/workflows/Build/badge.svg)](https://github.com/kopia/kopia/actions?query=workflow%3ABuild)
